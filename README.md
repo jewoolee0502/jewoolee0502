@@ -106,7 +106,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=jewoolee0502&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/jewoolee0502">
+    <img src="https://github-readme-stats.vercel.app/api?username=jewoolee0502&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/jewoolee0502">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewoolee0502&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  </a>
+  
 </div>
 
 ###
