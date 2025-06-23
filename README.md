@@ -106,7 +106,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jewoolee0502&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=jewoolee0502&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
 ###
