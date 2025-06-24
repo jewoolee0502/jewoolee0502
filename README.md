@@ -37,7 +37,14 @@
 
 ###
 
-<p align="left">I'm a South Korean software developer, born and raised in Cairo Egypt 🏜️.<br><br>- 🔭 I’m working as a Full-Stack Intern at Wholesale Express Canada<br>- 📚 I'm currently learning different modern frameworks and web development best practices<br>- ⚡ Outside of coding, I enjoy fitness, movies, and social events</p>
+<p align="left">
+  I'm a South Korean software developer, born and raised in Cairo Egypt 🏜️.
+  
+  <br>- 🔭 I’m working as a Full-Stack Intern at Wholesale Express Canada
+  <br>- 🎓 I'm currently pursuing a Bachelor's degree in Computer Engineering at McGill University
+  <br>- 📚 I'm currently learning different modern frameworks, full-stack development and web development best practices
+  <br>- ⚡ Outside of coding, I enjoy fitness, movies, and social events
+</p>
 
 ###
 
