@@ -25,6 +25,14 @@
 
 ###
 
+<h3 align="center">🤝 Let's Connect!</h3>
+
+<p align="center">
+  📫 <strong>Contact me:</strong> <a href="mailto:jewoo.lee@mail.mcgill.ca">jewoo.lee@mail.mcgill.ca</a>
+</p>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
