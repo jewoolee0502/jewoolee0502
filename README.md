@@ -129,9 +129,11 @@
 
   
   <!-- GitHub Stats Card -->
+  <!--
   <a href="https://github.com/jewoolee0502">
     <img src="https://github-readme-stats.vercel.app/api?username=jewoolee0502&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
+  -->
   
 </div>
 
