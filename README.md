@@ -25,11 +25,26 @@
 
 ###
 
+<h3 align="center">🤝 Let's Connect!</h3>
+
+<p align="center">
+  📫 <strong>Contact me:</strong> <a href="mailto:jewoo.lee@mail.mcgill.ca">jewoo.lee@mail.mcgill.ca</a>
+</p>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a South Korean software developer, born and raised in Cairo Egypt 🏜️.<br><br>- 🔭 I’m working as a Full-Stack Intern at Wholesale Express Canada<br>- 📚 I'm currently learning different modern frameworks and web development best practices<br>- ⚡ Outside of coding, I enjoy fitness, movies, and social events</p>
+<p align="left">
+  I'm a South Korean software developer, born and raised in Cairo Egypt 🏜️.
+  
+  <br>- 🔭 I’m working as a Full-Stack Intern at Wholesale Express Canada
+  <br>- 🎓 I'm currently pursuing a Bachelor's degree in Computer Engineering at McGill University
+  <br>- 📚 I'm currently learning different modern frameworks, full-stack development and web development best practices
+  <br>- ⚡ Outside of coding, I enjoy fitness, movies, and social events
+</p>
 
 ###
 
@@ -106,7 +121,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=jewoolee0502&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+
+  <!-- Top Languages -->
+  <!--
+  <a href="https://github.com/jewoolee0502">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewoolee0502&theme=dark&hide_border=false&layout=compact&card_width=445&langs_count=8" alt="Top Languages" />
+  </a>
+  -->
+
+  
+  <!-- GitHub Stats Card -->
+  <!--
+  <a href="https://github.com/jewoolee0502">
+    <img src="https://github-readme-stats.vercel.app/api?username=jewoolee0502&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  -->
+  
 </div>
 
 ###
