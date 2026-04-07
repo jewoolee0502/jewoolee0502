@@ -44,7 +44,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-  I'm a South Korean software developer, born and raised in Cairo Egypt 🏜️.
+  I'm a Software Engineer based in Montreal, Canada, originally from Cairo, Egypt 🏜️.
   
   <br>- 🎓 Bachelor's degree in Computer Engineering from McGill University (Dec 2025)
   <br>- 🏆 1st Place — Databricks AI Agent Hackathon
