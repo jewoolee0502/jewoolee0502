@@ -123,9 +123,11 @@
 <div align="center">
 
   <!-- Top Languages -->
+  <!--
   <a href="https://github.com/jewoolee0502">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewoolee0502&theme=dark&hide_border=false&layout=compact&card_width=445&langs_count=8" alt="Top Languages" />
   </a>
+  -->
 
   
   <!-- GitHub Stats Card -->
