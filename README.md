@@ -1,3 +1,14 @@
+<!-- <h1 align="center">Hey there 👋, I'm Jewoo (Jay) Lee</h1> -->
+<p align="center">
+  <img src="https://github.com/jewoolee0502/jewoolee0502/raw/main/assets/github_profile.gif" alt="Hi, I'm Jewoo 👋 I'm a 🚀 Software Engineer 🚀">
+</p>
+
+<!-- 
+  Created with: https://codesandbox.io/dashboard/recent
+-->
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -18,10 +29,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jewoolee0502.jewoolee0502&"  />
 </div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Jewoo (Jay) Lee</h1>
 
 ###
 
